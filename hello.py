@@ -1,2 +1,2 @@
 def my_function():
-  print("Hello from a private function")
+  print("Hello from a public function")
